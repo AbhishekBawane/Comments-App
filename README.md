@@ -1,4 +1,4 @@
-# 📱 React Native Comments App
+# React Native Comments App
 
 A two-screen React Native application that fetches comments from a public API, displays them in a paginated list, and shows full details on selection.
 
@@ -123,7 +123,7 @@ npx react-native run-android
 
 ---
 
-## 📦 Build APK (Release)
+## Build APK (Release)
 
 ```bash
 cd android
@@ -138,15 +138,15 @@ android/app/build/outputs/apk/release/app-release.apk
 
 ---
 
-## 📱 Screenshots
+## Screenshots
 
-### 🧾 Comments List
+### Comments List
 
 <img width="400" height="750" alt="Comment List 1" src="https://github.com/user-attachments/assets/427ffe2d-a044-4639-a7ba-c88bea663539" />
 <img width="400" height="750" alt="Comment List 2" src="https://github.com/user-attachments/assets/65e9ddae-bc76-4871-87ee-3d59b013b89b" />
 
 
-### 📄 Comment Detail
+### Comment Detail
 
 <img width="400" height="750" alt="Comment Details" src="https://github.com/user-attachments/assets/b27158f2-80b5-42d7-a6d6-00ef3b94f793" />
 
