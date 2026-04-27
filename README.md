@@ -142,13 +142,13 @@ android/app/build/outputs/apk/release/app-release.apk
 
 ### 🧾 Comments List
 
-<img width="718" height="1599" alt="Comment List 1" src="https://github.com/user-attachments/assets/427ffe2d-a044-4639-a7ba-c88bea663539" />
-<img width="718" height="1599" alt="Comment List 2" src="https://github.com/user-attachments/assets/65e9ddae-bc76-4871-87ee-3d59b013b89b" />
+<img width="400" height="750" alt="Comment List 1" src="https://github.com/user-attachments/assets/427ffe2d-a044-4639-a7ba-c88bea663539" />
+<img width="400" height="750" alt="Comment List 2" src="https://github.com/user-attachments/assets/65e9ddae-bc76-4871-87ee-3d59b013b89b" />
 
 
 ### 📄 Comment Detail
 
-<img width="720" height="1604" alt="Comment Details" src="https://github.com/user-attachments/assets/b27158f2-80b5-42d7-a6d6-00ef3b94f793" />
+<img width="400" height="750" alt="Comment Details" src="https://github.com/user-attachments/assets/b27158f2-80b5-42d7-a6d6-00ef3b94f793" />
 
 
 ---
